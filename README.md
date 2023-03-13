@@ -1,2 +1,2 @@
 # Operating-Systems-project
-Realization of a small, but completely functional operating system kernel.
+Realization of a small, but completely functional operating system kernel, which supports multithreading and time sharing. Based on the architecture of RISC V processor. This project contains threads, semaphores, memory allocator from scratch, interrupt handling (external - keyboard, internal - timer). Additionally improved to support slab allocator for kernel structures, in the interest of improving memory management.
